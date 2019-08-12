@@ -8,6 +8,7 @@ class Animal10 {
   constructor(name, energy) {
     this.name = name;
     this.energy = energy;
+    // NAS
   }
 
   eat(amount) {
